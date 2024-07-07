@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_IP_app\bin\Debug\HW_IP_app.exe.config
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_IP_app\bin\Debug\HW_IP_app.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_IP_app\bin\Debug\HW_IP_app.pdb
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_IP_app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_IP_app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_IP_app\obj\Debug\HW_IP_app.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_IP_app\obj\Debug\HW_IP_app.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_IP_app\obj\Debug\HW_IP_app.csproj.CopyComplete
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_IP_app\obj\Debug\HW_IP_app.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_IP_app\obj\Debug\HW_IP_app.pdb
